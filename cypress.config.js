@@ -35,7 +35,7 @@ module.exports = defineConfig({
       runMode: 1,
       openMode: 0
     },
-    baseUrl : 'https://master.chargeautomation.com/',
+    baseUrl : '',
     "chromeWebSecurity": false,
     "pageLoadTimeout": 60000,
     "defaultCommandTimeout": 60000,
